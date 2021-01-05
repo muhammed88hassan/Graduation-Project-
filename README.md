@@ -12,3 +12,5 @@ My contributions were:
 4- Establishing a connection between the system and the user through Google cloud IOT.
 
 5- Designing classic control circuits of the whole project.
+
+6- System Motion Scene.
